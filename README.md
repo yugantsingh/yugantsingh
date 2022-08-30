@@ -1,5 +1,5 @@
-## Hello, I am Yugant
-# Welcome to my github profile
+# Hello, I am Yugant
+## Welcome to my github profile
 <div align="center">
   <a href="https://github.com/yugantsingh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yugantsingh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
