@@ -4,9 +4,13 @@ I'm Yugant Singh, a software developer based in India. I'm also a part-time ninj
 
 ## 📊 My GitHub Stats
 
-[![Yugant's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugantsingh)](https://github.com/yugantsingh)
+# My GitHub stats ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugantsingh)](https://github.com/yugantsingh)
+- Total commits: ![Commits](https://img.shields.io/github/commit-activity/y/yugantsingh/your_repo?style=flat-square)
+- Total stars: ![Stars](https://img.shields.io/github/stars/yugantsingh?style=flat-square)
+- Total forks: ![Forks](https://img.shields.io/github/forks/yugantsingh/your_repo?style=flat-square)
+- Total issues: ![Issues](https://img.shields.io/github/issues/yugantsingh/your_repo?style=flat-square)
+- Total pull requests: ![Pull requests](https://img.shields.io/github/issues-pr/yugantsingh/your_repo?style=flat-square)
 
 <!-- Add icons for the languages and tools you use here -->
 ##
