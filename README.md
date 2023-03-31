@@ -1,17 +1,19 @@
-# Hello, I am Yugant
-## Welcome to my github profile
-<div align="center">
-  <a href="https://github.com/yugantsingh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yugantsingh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugantsingh&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  ##
+# Hi there 👋
+
+I'm Yugant Singh, a software developer based in India. I'm also a part-time ninja and a full-time coffee addict. ☕
+
+## 📊 My GitHub Stats
+
+[![Yugant's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugantsingh)](https://github.com/yugantsingh)
+
+## 💻 Languages and Tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugantsingh)](https://github.com/yugantsingh)
+
+<!-- Add icons for the languages and tools you use here -->
+##
  
 <div> 
-  <a href="https://instagram.com/yugantsingh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:yugantsings@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yugantsingh" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/yugantsingh/yugantsingh/blob/output/github-contribution-grid-snake.svg)
  
