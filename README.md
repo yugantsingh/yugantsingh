@@ -2,6 +2,9 @@
 
 I'm Yugant Singh, a software developer based in India. I'm also a part-time ninja and a full-time coffee addict. ☕
 
+### Check out my portfolio website
+
+[https://yugantsingh.co](https://yugantsingh.co)
 
 ## My skills and tools
 
@@ -18,9 +21,7 @@ I'm Yugant Singh, a software developer based in India. I'm also a part-time ninj
 - Twitter: https://twitter.com/yugantsings/
 
 
-## Check out my portfolio website
 
-[https://yugantsingh.co](https://yugantsingh.co)
 
 
 <!-- Add icons for the languages and tools you use here -->
