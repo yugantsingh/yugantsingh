@@ -3,6 +3,21 @@
 I'm Yugant Singh, a software developer based in India. I'm also a part-time ninja and a full-time coffee addict. ☕
 
 
+## My skills and tools
+
+- Languages: Python, Java, JavaScript
+- Frameworks: React, Next
+- Databases: MySQL, MongoDB, Firebase
+- Tools: Git, VS Code
+- Others: Linux, Bash
+
+## How to reach me
+
+- Email: yugantsings@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yugantsingh/
+- Twitter: https://twitter.com/yugantsings/
+
+
 ## Check out my portfolio website
 
 [https://yugantsingh.co](https://yugantsingh.co)
