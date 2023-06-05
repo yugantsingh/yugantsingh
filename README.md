@@ -15,7 +15,6 @@ Check out my portfolio website : [https://yugantsingh.co](https://yugantsingh.co
 ## How to reach me
 
 - Email: yugantsings@gmail.com
-- LinkedIn: https://www.linkedin.com/in/yugantsingh/
 - Twitter: https://twitter.com/yugantsings/
 
 
