@@ -6,8 +6,8 @@ Check out my portfolio website : [https://yugantsingh.co](https://yugantsingh.co
 
 ## My skills and tools
 
-- Languages: Python, Java, JavaScript
-- Frameworks: React, Next
+- Languages: JavaScript, Python
+- Frameworks: React, Next, Node, Express
 - Databases: MySQL, MongoDB, Firebase
 - Tools: Git, VS Code
 - Others: Linux, Bash
